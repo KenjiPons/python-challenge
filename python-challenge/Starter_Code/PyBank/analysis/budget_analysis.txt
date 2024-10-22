@@ -1,0 +1,4 @@
+Total months: 86
+Total: 23474973
+Greatest profit:  1862002 ['Aug-16']
+Greatest loss:  -1194133 ['Dec-10']
